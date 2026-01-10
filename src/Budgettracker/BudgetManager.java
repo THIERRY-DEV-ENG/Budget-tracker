@@ -1,4 +1,4 @@
-package budgettracker;
+package Budgettracker;
 
 import java.util.ArrayList;
 import java.util.List;
